@@ -1,13 +1,20 @@
 # Site settings
 title: HTB OSCP Writeups
 description: Penetration testing notes, Active Directory writeups, and security research.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 
-# Optional: exclude metadata files from the generated site
+# Exclude metadata files from the generated site
 exclude:
   - README.md
   - LICENSE
