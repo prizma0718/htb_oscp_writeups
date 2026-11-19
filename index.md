@@ -7,6 +7,6 @@ title: HTB OSCP Writeups
 
 Here is a collection of my penetration testing and Active Directory writeups:
 
-* [Windows / Active Directory Writeups](AD-Windows/)
-* [Linux Writeups](Linux/)
-* [Starting Point Writeups](Starting-Point/)
+- [Windows / Active Directory Writeups](AD-Windows/)
+- [Linux Writeups](Linux/)
+- [Starting Point Writeups](Starting-Point/)
