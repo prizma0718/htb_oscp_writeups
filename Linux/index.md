@@ -7,4 +7,7 @@ title: Linux Writeups
 
 # Linux Writeups
 
-- [HTB Sau](HTB-Sau.md)
+- [HTB Dog](HTB-Linux-Dog.md)
+- [HTB Keeper](HTB-Linux-Keeper.md)
+- [HTB Sau](HTB-Linux-Sau.md)
+- [HTB Soccer](HTB-Linux-Soccer.md)
