@@ -1,7 +1,3 @@
-
-## 2026-11-17
----
-
 System: Linux
 Difficulty: Easy
 
