@@ -14,6 +14,13 @@ relative_links:
   enabled: true
   collections: true
 
+# DEBUG
+defaults:
+  - scope:
+      path: ""
+    values:
+      render_with_liquid: false
+
 # Exclude metadata files from the generated site
 exclude:
   - README.md
